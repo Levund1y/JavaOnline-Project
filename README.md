@@ -7,6 +7,8 @@
 6) Все данные из набора объектов сохранил в БД
 7) Сделал набор SQL-запросов к БД согласно своему варианту задания.
 8) Полученные данные вывел в текстовом виде в консоле:
-9) Числовые данные по заданию визуализировал в виде диаграмм:
+   ![](https://sun9-62.userapi.com/impg/dgvBtzkz3U921WnSicHGRJjwnz7XZvPxzZVHcQ/s3SJ8a2nQaQ.jpg?size=858x306&quality=95&sign=bc779648c87cdcb006a0cccde62569bc&type=album)
+9)  Числовые данные по заданию визуализировал в виде диаграмм:
+    ![](https://sun9-32.userapi.com/impg/Y-j3Y-BAAiUSqkVVjikteBm0917BY_8pKLQ7Dw/bArgG4iZdyE.jpg?size=1105x780&quality=96&sign=4259a1e6763cf3c1f1835484d7ddfbdf&type=album)
 10) Создал репризиторий на GitHub и закаммитил туда всю работу по проекту.
 11) В файле README описал последовательность работы, прикрнпил все скриншоты.
